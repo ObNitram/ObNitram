@@ -8,7 +8,7 @@
 
 ## 📱 Involved in Flutter and Unity 3D
 
-## Funder of [Stanker](https://stanker.cloud) - GMAO
+## Funder of [Stanker](https://stanker.cloud)
 
 [![Preview Stanker](https://stanker.cloud/thumbnail.png)](https://stanker.cloud)
 
