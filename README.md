@@ -8,9 +8,9 @@
 
 ## 📱 Involved in Flutter and Unity 3D
 
-## Funder of Stanker - GMAO
+## Funder of [Stanker](https://stanker.cloud) - GMAO
 
-[![Preview](https://stanker.cloud/thumbnail.png)](https://stanker.cloud)
+[![Preview Stanker](https://stanker.cloud/thumbnail.png)](https://stanker.cloud)
 
 <!-- ## 🏰 I am currently working on an ERP suite with Flutter! -->
 
