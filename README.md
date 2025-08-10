@@ -11,7 +11,7 @@
 ## Funder of Stanker - GMAO
 
 <a href="https://stanker.cloud" target="_blank">
-  <img src="https://image.service/thumbnail.png" alt="Preview" />
+  <img src="https://stanker.cloud/thumbnail.png" alt="Preview" />
 </a>
 
 <!-- ## 🏰 I am currently working on an ERP suite with Flutter! -->
