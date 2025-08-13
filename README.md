@@ -8,15 +8,15 @@
 
 ## 📱 Involved in Flutter and Unity 3D
 
-## Founder of [Stanker](https://stanker.cloud)
-
-[![Preview Stanker](https://stanker.cloud/thumbnail.png)](https://stanker.cloud)
 
 <!-- ## 🏰 I am currently working on an ERP suite with Flutter! -->
 
 > "Embrace Linux because a PC is a terrible thing to waste."
 
 <!-- 
+## Founder of [Stanker](https://stanker.cloud)
+
+[![Preview Stanker](https://stanker.cloud/thumbnail.png)](https://stanker.cloud)
 === 🏰 I’m currently working on a Unity 3D mobile game!
 image:<https://github-readme-stats.vercel.app/api?username=obnitram[link="https://github.com/obnitram/github-readme-stats>"]
 
