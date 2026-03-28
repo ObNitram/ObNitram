@@ -6,15 +6,13 @@
 
 💻 Constantly eager to upgrade my skills! Dedicated to deepening my understanding of computer science and writing masterfully-engineered code.🚀
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20" height="20" />](https://link.obnitram.cloud/linkedin-g)
-
 ## 📱 Involved in Flutter and Unity 3D
 
 > "Embrace Linux because a PC is a terrible thing to waste."
 
 
-## Founder of [MaintKit](https://link.obnitram.cloud/maintkit-g)
-[![Preview Maintkit](https://maintkit.cloud/thumbnail.png)](https://link.obnitram.cloud/maintkit-g)
+## Founder of [MaintKit](https://maintkit.cloud)
+[![Preview Maintkit](https://maintkit.cloud/thumbnail.png)](https://maintkit.cloud)
 
 
 
